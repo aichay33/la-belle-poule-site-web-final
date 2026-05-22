@@ -1,0 +1,28 @@
+VERSION COMPLETE - LA BELLE POULE
+
+Cette version ajoute la structure complète proposée pour une application plus crédible :
+- Accueil recentré sur œufs plein air en verger
+- Projet avec état d’avancement
+- Recherche terrain renforcée
+- Page système plein air en verger
+- Page vente directe
+- Page dossier projet
+- Page comment aider
+- Mentions légales
+- PDF de présentation inclus
+- Sitemap et robots mis à jour
+- Anciennes pages réorientées pour ne pas contredire le nouveau projet
+
+A vérifier localement avant Vercel :
+1. npm install
+2. npm run build
+3. npm run dev
+4. Accueil
+5. Menu hamburger
+6. Recherche terrain
+7. Dossier projet
+8. Téléchargement du PDF
+9. /robots.txt
+10. /sitemap.xml
+
+Ne pas déployer tant que le visuel local n’est pas validé.
